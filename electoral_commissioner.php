@@ -55,7 +55,7 @@ $candidates = mysqli_fetch_all($result, MYSQLI_ASSOC);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="upsa-favi.png">
 
-    <title>Vote - Electoral Commissioner</title>
+    <title>Electoral Commissioner</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
